@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\Build\Test.Default.props" />
+
+</Project>

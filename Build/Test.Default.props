@@ -1,0 +1,10 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<TargetFrameworks>net5.0;net461;netcoreapp2.1;netcoreapp3.1</TargetFrameworks>
+		<LangVersion>9.0</LangVersion>
+		<Nullable>enable</Nullable>
+		<Copyright>Igor Tkachev</Copyright>
+		<Authors>Igor Tkachev</Authors>
+		<Company></Company>
+	</PropertyGroup>
+</Project>
